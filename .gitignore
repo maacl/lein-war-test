@@ -1,0 +1,6 @@
+classes/
+lib/
+*.war
+Manifest.txt
+pom.xml
+.DS_Store
