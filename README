@@ -2,6 +2,8 @@
 
 Small test project to test building a .war file using leiningen-war and deployinging it using jetty-runner.
 
+Please note that the repo includes the jetty-runner jar whichs weighs in at +6 mb.
+
 ## Usage
 
 lein deps
