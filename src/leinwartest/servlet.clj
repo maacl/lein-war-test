@@ -3,7 +3,7 @@
   (:use compojure.http compojure.html))
 
 (defroutes lein-war-test-app
-  (GET "/"
+  (GET "/*"
     (html [:h1 "Hello, World!"])))
 
 (defservice lein-war-test-app)
