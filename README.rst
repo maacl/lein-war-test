@@ -8,8 +8,11 @@ Usage
 -----
 
 lein deps
+
 lein compile
+
 lein uberwar
+
 java -jar jetty-runner-7.0.1.v20091125.jar lein-war-test-1.0.0-SNAPSHOT.war
 
 Installation
